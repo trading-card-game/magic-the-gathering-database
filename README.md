@@ -1,6 +1,6 @@
 # Magic the Gathering Database
 
-This project is intended to provide a local **MySQL** database for **Magic the Gathering** cards based on SQL dumps of **[MTGJSON](mtgjson.com)**.
+This project is intended to provide a local **[MySQL](https://www.mysql.com/)** database for **[Magic the Gathering](https://magic.wizards.com/en)** cards based on SQL dumps of **[MTGJSON](https://mtgjson.com)**.
 
 ## Requirements
 
