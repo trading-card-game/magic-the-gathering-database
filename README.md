@@ -6,7 +6,7 @@ This project is intended to provide a local **[MySQL](https://www.mysql.com/)** 
 
 The following software is required to run the project:
 
-- Docker
+- [Docker](https://www.docker.com/)
 
 In order to access the database, you will have to use an MySQL client. This project already contains [PHPMyAdmin](https://www.phpmyadmin.net/) to provide a browser based MySQL client. In case you do want to use a native client, there are some free recommendations:
 
