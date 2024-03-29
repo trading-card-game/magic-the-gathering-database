@@ -87,7 +87,7 @@ After this, you will have to start over with [running the container](#running-th
 
 ## Thank You
 
-A special thank you goes to [docker-mysql-mtg](https://github.com/CallMeHK/docker-mysql-mtg) which this project has been inspired of.
+A special thank you goes to [docker-mysql-mtg](https://github.com/CallMeHK/docker-mysql-mtg) which this project has been inspired of. Also, i do want to say thank you to [MTGJSON](https://mtgjson.com) for maintaining and providing the data source of this project.
 
 ## Other Projects
 
