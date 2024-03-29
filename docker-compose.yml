@@ -3,6 +3,7 @@ services:
   mysql:
     build:
       context: ./docker
+    image: trading-card-game/mtg-database
     ports:
       - '3307:3306'
     expose:
