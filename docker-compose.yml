@@ -22,7 +22,7 @@ services:
     healthcheck:
       test: [ "CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "--silent" ]
       retries: 3
-      start_period: 60m
+      start_period: 6h
     restart: unless-stopped
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
